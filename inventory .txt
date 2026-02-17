@@ -1,0 +1,15 @@
+Add the ip address of your target servers here
+
+If you have them in groups add:
+
+[WEBSERVERS]
+Webserverip1
+webserverip2
+.
+.
+
+[databaseservers]
+databaseserverip1
+databaseserverip2
+.
+.
